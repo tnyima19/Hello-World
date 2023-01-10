@@ -10,5 +10,8 @@ int main(){
     cout<<"TOtal = "<<total <<endl;
     
 
+
+    cout<<"I am in master"<<endl;
+    
     return 0;
 }
